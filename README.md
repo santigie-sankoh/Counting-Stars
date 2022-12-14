@@ -1,4 +1,4 @@
-# Counting-Stars - Physics
-> Authored by Santigie
-
-1. Reference
+1. To obtain a dataset of star positions and brightnesses. This could be obtained from a telescope or from a database of known stars.
+2. Next to write a python script to simulate the process of observing the stars. This could involve using some basic physics and astronomy principles to model the movement of the stars and the telescope, as well as taking into account factors such as atmospheric conditions and the limitations of the telescope.
+3. The script could then simulate the process of collecting data on the stars, including their positions and brightnesses. This data could be stored in a python data structure, such as a list or a dictionary.
+4. Once the data has been collected, the script could use python's built-in sorting and counting functions to determine the number of stars that were observed.
